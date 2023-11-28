@@ -1,0 +1,48 @@
+
+html {
+    background-color: #f3f4f5;
+}
+
+title {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+h1, h2, h3, ol {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+  }
+
+  p, ul {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #757575;
+  }
+
+article {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+}
+
+#video {
+    color: red;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+}
+
+#video1 {
+    color: red;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+}
+
+.text-link {
+    color: blue;
+  }
+  .text-link:hover {
+    background-color: green;
+    color: white;
+  }

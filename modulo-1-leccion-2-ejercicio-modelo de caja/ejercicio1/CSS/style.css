@@ -1,0 +1,21 @@
+div {
+    height: 100px;
+    width: 100px;
+}
+
+p {
+    background-color: blue;
+    color: antiquewhite;
+}
+
+.display2 {
+    display: inline ;
+}
+
+.display3 {
+    display: inline-block ;
+}
+
+.display4 {
+    display: none;
+}

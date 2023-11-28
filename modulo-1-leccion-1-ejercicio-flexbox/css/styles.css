@@ -1,0 +1,27 @@
+.container {
+    width: 700px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    background-color: blanchedalmond;
+    flex-wrap: wrap;
+    gap: 7px;
+    /* en este caso el eje secundario es el eje x */
+    align-items: center;
+    /* en este caso el eje principal es el eje y */
+    justify-content: flex-end;
+}
+
+.box {
+    width: 100px;
+    height: 200px;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+
+.menu {
+    display: flex;
+    gap: 5px;
+    list-style: none;
+    /* flex-direction: row-reverse; se puede utiliar pero mejor usar orden */
+
